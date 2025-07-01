@@ -7,6 +7,7 @@ Code
 using UnityEngine;
 public class GroundObjectController : MonoBehaviour
 {
+
     #region Variables  
     public int speed = 15; // Speed of the ground object  
     #endregion  
