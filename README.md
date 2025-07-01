@@ -5,7 +5,9 @@ Scene created for exercise of module-3-EBAC. A class called Maze (GroundObject) 
 Code
 
 using UnityEngine;
+
 public class GroundObjectController : MonoBehaviour
+
 {
 
     #region Variables  
